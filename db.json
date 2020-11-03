@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Billy Dog",
+      "hp": "1000",
+      "sprites": {
+        "front": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2fa6f21-4151-4eb6-8db1-70b1df16f3fc/dlafuw-c3adc90e-b07b-432a-8889-8f3cf61a57f7.png/v1/fill/w_956,h_759,q_80,strp/oh_no__made_up_pokemon_by_pineapplesodacat_dlafuw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03NTkiLCJwYXRoIjoiXC9mXC9jMmZhNmYyMS00MTUxLTRlYjYtOGRiMS03MGIxZGYxNmYzZmNcL2RsYWZ1dy1jM2FkYzkwZS1iMDdiLTQzMmEtODg4OS04ZjNjZjYxYTU3ZjcucG5nIiwid2lkdGgiOiI8PTk1NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AJruAaSjsxIP5RURaXlON6S7sY2Lk7fHctRfZT0uDEo",
+        "back": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmXdaSGeIyB01ecwR8o3uuNs-rBR7aNJfk5Q&usqp=CAU"
+      },
+      "id": 151
+    },
+    {
+      "name": "Billy Helm",
+      "hp": "444",
+      "sprites": {
+        "front": "fronts",
+        "back": "backs"
+      },
+      "id": 152
     }
   ]
 }
